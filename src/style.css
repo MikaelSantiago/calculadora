@@ -1,0 +1,78 @@
+.number {
+    border: 0.8px solid black;
+    background-color: #4c4c4c;
+    color: white;
+    height: 65px;
+    width: 80px;
+    font-size: 20px;
+}
+
+.mathematicalSymbol {
+    border: 0.8px solid black;
+    background-color: #646464;
+    color: white;
+    height: 65px;
+    width: 80px;
+    font-size: 20px;
+}
+
+.AC {
+    border: 0.8px solid black;
+    background-color: #ac3c3c;
+    color: white;
+    height: 65px;
+    width: 163px;
+    font-size: 20px;
+}
+
+.equals {
+    border: 0.8px solid black;
+    background-color: #044464;
+    color: white;
+    height: 132px;
+    width: 80px;
+    font-size: 20px;
+}
+
+#zero {
+    border: 0.8px solid black;
+    height: 65px;
+    width: 163px;
+    font-size: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#container-display {
+    background-color: black;
+}
+
+#display {
+    height: 30px;
+    margin: 0;
+    color: white;
+    text-align: right;
+    font-size: 29px;
+}
+
+#secondDisplay {
+    height: 30px;
+    margin: 0;
+    color: white;
+    text-align: right;
+    font-size: 20px;
+}
+
+body {
+    background-color: #c4c4d4;
+}
